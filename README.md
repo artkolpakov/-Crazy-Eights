@@ -1,4 +1,4 @@
-# -Crazy-Eights
+#Crazy-Eights
 This program allows one player to play a game of Crazy Eights against the computer. Crazy Eights is a game that uses a standard deck of 52 cards. 
 Specifically, each card has a rank and a suit. There are 13 ranks: the numbers 2 through 10, Jack (usually represented with the letter J), Queen (Q), King (K),
 and Ace (A). There are 4 suits: clubs, diamonds, hearts, and spades. In a 52-card deck, there is one card of each rank for each suit.
